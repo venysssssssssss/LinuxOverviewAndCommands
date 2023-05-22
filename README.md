@@ -6,3 +6,4 @@
 
 ## 1. Comandos básicos
 - sudo => permissão do admin
+- apt-get install => APT = Advanced Packaging Tool, permite a instalação (install), atualização(update) e remoção (remove) de pacotes do sistema.
