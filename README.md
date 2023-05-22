@@ -8,9 +8,11 @@
 - [1. Comandos básicos](#1-comandos-basicos)
   - [1.1 Abrindo uma pasta](#11-abrindo-uma-pasta)
   - [1.2 Criando uma pasta](#12-criando-uma-pasta)
-  - [1.3](#13--)
-  - [1.4](#14--)
-
+  - [1.3 Criando um arquivo](#13-criando-um-arquivo)
+  - [1.4 Movendo um arquivo](#14-movendo-um-arquivo)
+  - [1.5 Copiando um arquivo](#15-copiando-um-arquivo)
+    
+    
 ## 1. Comandos básicos
 - sudo => permissão do admin
 - apt-get install => APT = Advanced Packaging Tool, permite a instalação (install), atualização(update) e remoção (remove) de pacotes do sistema.
