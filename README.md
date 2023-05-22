@@ -7,16 +7,16 @@
 ## 1. Comandos básicos
 - sudo => permissão do admin
 - apt-get install => APT = Advanced Packaging Tool, permite a instalação (install), atualização(update) e remoção (remove) de pacotes do sistema.
-### Abrindo uma pasta
+### 1.1 Abrindo uma pasta
 - Usando o comando cd (change directory) + nome_da_pasta podemos abrir uma pasta.
 - E também utilizando o “cd ..” podemos voltar uma pasta
-### Criando uma pasta
+### 1.2 Criando uma pasta
 - mkdir => serve para criar a pasta onde mkdir significa make directory
 - artigo => nome pasta que você quiser
-### Criando um arquivo
+### 1.3 Criando um arquivo
 - touch => cria um arquivo teste.js
 - teste.js => nome_do_arquivo.extensão_do_arquivo
-### Movendo um arquivo
+### 1.3 Movendo um arquivo
 - sudo => admin
 - mv => move
 - teste.js => arquivo a ser movido
