@@ -23,6 +23,7 @@
 ### 1.3 Criando um arquivo
 - touch => cria um arquivo teste.js
 - teste.js => nome_do_arquivo.extensão_do_arquivo
+![image](https://github.com/venysssssssssss/LinuxOverviewCommands/assets/99450704/1ff9d6b4-3d19-4be4-a8a6-60119f3da54d)
 ### 1.4 Movendo um arquivo
 - sudo => admin
 - mv => move
