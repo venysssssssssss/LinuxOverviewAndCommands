@@ -27,6 +27,6 @@
 - sudo => admin
 - mv => move
 - teste.js => arquivo a ser movido
-- /home/venys/Documents => pasta destino
+- /home/user/Documents => pasta destino
 - Nesta parte utilizamos o comando ls(list), podendo assim ver o conteúdo da pasta.
 ![image](https://github.com/venysssssssssss/LinuxOverviewCommands/assets/99450704/62feb78a-afc9-487e-b3b5-e267f0c37f0a)
