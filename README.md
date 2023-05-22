@@ -3,6 +3,10 @@
 ## Contents <!-- omit in toc -->
 
 - [1. Comandos básicos](#1-comandos-basicos)
+  - [1.1 Abrindo uma pasta](#11-abrindo-uma-pasta)
+  - [1.2 Criando uma pasta](#12-criando-uma-pasta)
+  - [1.3](#13--)
+  - [1.4](#14--)
 
 ## 1. Comandos básicos
 - sudo => permissão do admin
