@@ -41,11 +41,7 @@
     
 ### 1.5 Copiando um arquivo
 - Copiamos o arquivo teste deixando-o nas duas pastas.
-
 - sudo => admin
-
 - cp => ccopy
-
 - teste.js => arquivo a ser copiado
-
 - /home/leonardo/Documents/Leonardo => pasta destino
