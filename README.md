@@ -2,4 +2,4 @@
 
 ## Contents <!-- omit in toc -->
 
-- [1. Comandos básicos](#1-comandos-b)
+- [1. Comandos básicos](#1-comandos-basicos)
