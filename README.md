@@ -38,3 +38,14 @@
 - /home/user/Documents => pasta destino
 - Nesta parte utilizamos o comando ls(list), podendo assim ver o conteúdo da pasta.
 ![image](https://github.com/venysssssssssss/LinuxOverviewCommands/assets/99450704/62feb78a-afc9-487e-b3b5-e267f0c37f0a)
+    
+### 1.5 Copiando um arquivo
+- Copiamos o arquivo teste deixando-o nas duas pastas.
+
+- sudo => admin
+
+- cp => ccopy
+
+- teste.js => arquivo a ser copiado
+
+- /home/leonardo/Documents/Leonardo => pasta destino
