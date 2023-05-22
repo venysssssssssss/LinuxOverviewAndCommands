@@ -3,3 +3,6 @@
 ## Contents <!-- omit in toc -->
 
 - [1. Comandos básicos](#1-comandos-basicos)
+
+## 1. Comandos básicos
+- sudo => permissão do admin
