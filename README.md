@@ -16,7 +16,7 @@
 ### 1.3 Criando um arquivo
 - touch => cria um arquivo teste.js
 - teste.js => nome_do_arquivo.extensão_do_arquivo
-### 1.3 Movendo um arquivo
+### 1.4 Movendo um arquivo
 - sudo => admin
 - mv => move
 - teste.js => arquivo a ser movido
