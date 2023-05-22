@@ -45,3 +45,4 @@
 - cp => ccopy
 - teste.js => arquivo a ser copiado
 - /home/leonardo/Documents/Leonardo => pasta destino
+![image](https://github.com/venysssssssssss/LinuxOverviewCommands/assets/99450704/73d76efe-81d7-4f6d-85b1-407825fcf118)
