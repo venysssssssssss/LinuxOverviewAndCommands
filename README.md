@@ -12,6 +12,7 @@
   - [1.4 Movendo um arquivo](#14-movendo-um-arquivo)
   - [1.5 Copiando um arquivo](#15-copiando-um-arquivo)
   - [1.6 Removendo um arquivo](#16-removendo-um-arquivo)
+- [2. Comandos linux](#2-comandos-linux)
     
     
 ## 1. Comandos básicos
@@ -56,3 +57,4 @@
 - teste.js => arquivo a ser removido
 ![image](https://github.com/venysssssssssss/LinuxOverviewCommands/assets/99450704/18219d63-05e2-43f0-800b-1489c63b79f6)
 
+## 2. Comandos Linux
