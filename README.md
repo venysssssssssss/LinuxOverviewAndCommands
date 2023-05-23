@@ -54,3 +54,5 @@
 - sudo => admin
 - rm => remove
 - teste.js => arquivo a ser removido
+![image](https://github.com/venysssssssssss/LinuxOverviewCommands/assets/99450704/18219d63-05e2-43f0-800b-1489c63b79f6)
+
