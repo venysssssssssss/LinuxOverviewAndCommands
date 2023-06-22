@@ -58,8 +58,10 @@
 
 ## 2. Comandos Linux
 
-###O que é Sudo?
+### O que é Sudo?
+
 - Sudo é um comando dos sistemas operacionais baseados em Unix que permite o usuário ter previlégios, portanto quando queremos fazer algo que seria somente permitido por admin, usamos o sudo sempre antes do comando que queremos executar.
+
 ![image](https://github.com/venysssssssssss/LinuxOverviewAndCommands/assets/99450704/551c56ab-e82d-4a8a-a03d-ddb9ed72cd16)
 
 
